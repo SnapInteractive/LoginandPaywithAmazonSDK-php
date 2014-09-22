@@ -9,5 +9,5 @@
 			"homepage": "https://developer.amazonservices.com/gp/mws/api.html/183-8626912-0450752?ie=UTF8&group=offamazonpayments&section=offamazonpayments&version=latest"
 		}
 	],
-	"include-path": ["amazon/src/"]
+	"include-path": ["src/"]
 }
