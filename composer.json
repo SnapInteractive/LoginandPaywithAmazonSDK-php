@@ -1,5 +1,5 @@
 {
-	"name": "amazon",
+	"name": "amazon-payments-sdk-php",
 	"description": "Off-Amazon Payments API Section Client Library",
 	"type": "library",
 	"license": "Apache2",
