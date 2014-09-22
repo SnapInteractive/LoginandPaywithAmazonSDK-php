@@ -11,8 +11,8 @@
 	],
 	"include-path": [
 		"src/",
-		"src/OffAmazonPayments",
-		"src/OffAmazonPaymentsNotifications",
-		"src/OffAmazonPaymentsService"
+		"src/OffAmazonPayments/",
+		"src/OffAmazonPaymentsNotifications/",
+		"src/OffAmazonPaymentsService/"
 	]
 }
