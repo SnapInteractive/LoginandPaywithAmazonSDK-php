@@ -1,5 +1,5 @@
 {
-	"name": "amazon/src",
+	"name": "amazon",
 	"description": "Off-Amazon Payments API Section Client Library",
 	"type": "library",
 	"license": "Apache2",
