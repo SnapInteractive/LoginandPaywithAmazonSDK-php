@@ -14,5 +14,10 @@
 		"src/OffAmazonPayments/",
 		"src/OffAmazonPaymentsNotifications/",
 		"src/OffAmazonPaymentsService/"
-	]
+	],
+	"autoload": {
+		"classmap": [
+			"src/"
+		]
+	}
 }
