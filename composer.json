@@ -1,0 +1,13 @@
+{
+	"name": "amazon/src",
+	"description": "Off-Amazon Payments API Section Client Library",
+	"type": "library",
+	"license": "Apache2",
+	"authors": [
+		{
+			"name": "Amazon",
+			"homepage": "https://developer.amazonservices.com/gp/mws/api.html/183-8626912-0450752?ie=UTF8&group=offamazonpayments&section=offamazonpayments&version=latest"
+		}
+	],
+	"include-path": ["amazon/src/"]
+}
